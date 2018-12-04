@@ -1,0 +1,3 @@
+github "CocoaLumberjack/CocoaLumberjack" "3.3.0"
+github "appstronomy/SalesforceMobileSDK-iOS" "b660cb59685c50abbe535b0e367ab8edabc53cad"
+github "pluralsight/PSOperations" "3.0.0"

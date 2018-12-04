@@ -1,0 +1,10 @@
+/*
+ Localizable.strings
+ Created by Ken Grigsby on 12/5/16.
+ */
+
+/**
+ Common
+ */
+"download-operation.error-message" = "Unable to download “%@” data.";
+"sync-operation.error-message"     = "Unable to sync “%@” data.";

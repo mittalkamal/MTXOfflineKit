@@ -1,0 +1,11 @@
+
+#Swift3
+#github "appstronomy/SalesforceMobileSDK-iOS" "swift3" # Based on a very old fork
+
+github "appstronomy/SalesforceMobileSDK-iOS" "xcode9" # based on release forcedotcom SDK release 5.3
+
+# PSOperations: A framework for advanced NSOperations usage
+# Version for Swift 3.0
+github "pluralsight/PSOperations" ~> 3.0.0
+
+
